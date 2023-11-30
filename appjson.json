@@ -1,0 +1,41 @@
+[	
+	{
+	  "name": "Kody Philips Curve Jeans" ,
+		"price":"$158" ,
+	  "pimage": "https://www.kodyphillips.com/cdn/shop/files/KPWaveBLKFront_160x175.png?v=1695495693",
+	  "prodId": "1" ,
+	  "bname": "Kody Phillips"
+	}
+
+	{
+	  "name": "Chaos Tank Top" ,
+		"price":"$50" ,
+	  "pimage": "https://mindliquidstudio.com/cdn/shop/files/chaos-tank-top01_1024x1024@2x.jpg?v=1685621964" ,
+	  "prodId": "2" ,
+	  "bname": "MindLiquidStudio"
+	}
+	
+	{
+	  "name": "CONTRAST KNIT SWEATER (GREEN)" ,
+	  "price":"$125" ,
+	  "pimage": "https://assets.bigcartel.com/product_images/371131438/D675D7AF-BA20-4F1C-A02C-02CC95DF2069.jpeg?auto=format&fit=max&h=1000&w=1000" ,
+	  "prodId": "3" ,
+	  "bname": "AmeuletWare"
+	}
+
+	{
+	  "name": "Daisy's on the outside - Cropped Heavy Pullover [PRE-ORDER]" ,
+	  "price":"$75" ,
+	  "pimage": "https://ithinkihatemyself.com/cdn/shop/files/Hoodie2_47ff1bfc-eef0-40b6-b985-b9e00f3d90d4_1024x1024.png?v=1700860752" ,
+	  "prodId": "4" ,
+	  "bname": "GetSomeSleep"
+	}
+
+	{
+	  "name": "Frowg - Black Regular Fit Shirt" ,
+	  "price":"$25" ,
+	  "pimage": "https://ithinkihatemyself.com/cdn/shop/files/blackfrog_1024x1024.png?v=1699657722" ,
+	  "prodId": "5",
+	  "bname": "GetSomeSleep"
+	}
+]
